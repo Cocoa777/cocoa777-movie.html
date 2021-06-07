@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Favorite Movie</title>
+    </head>
+    <body>
+        <h2 style="color: yellow;">
+            Thank you for visiting my website^^
+        </h2>
+        <h3 style="color: orange;">
+            Today, I will introduce my favorite movie!🎬
+        </h3>
+        <h1>
+            My favorite movie is...
+        </h1>
+        <img width="320" src="https://i.pinimg.com/originals/7c/ae/33/7cae3311a02d926aa1eabfb920decadf.jpg">
+        <h2 style="color: tomato;">
+            "Spider man: into the spider verse"!!
+        </h2>
+        <!--
+            <p style="color: deepskyblue;">
+            This movie is (ofcoruse) spiderman movie. as you can see in the above picture.↑
+            <br>
+            I saw this movie in my friends house.
+            <br>
+            I like the movie, and sond track too.
+            <br>
+            This movie used a lot of CG(just my opinion), so it's realistic.
+        </p>
+    -->
+        <p style="color: deepskyblue;">
+        This movie is (ofcoruse) spiderman movie. as you can see in the above picture.↑
+        </p>
+        <p style="color: seagreen;">
+             I saw this movie in my <strong> friends house.</strong>
+        </p>
+       <p style="color: purple;">
+            I like the movie, and sond track too.
+        </p>
+       <p style="color: slateblue;">
+           This movie used a lot of CG(just my opinion), so it's <em>realistic.</em> 
+        </p>
+        
+    </p>
+        <h3>
+            Please watch this movie!🕷
+        </h3>
+    </body>
+</html>
